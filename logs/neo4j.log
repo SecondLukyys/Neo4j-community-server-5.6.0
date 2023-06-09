@@ -1,0 +1,1022 @@
+2023-04-12 18:16:41.072+0000 INFO  Starting...
+2023-04-12 18:16:41.869+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-12 18:16:43.088+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-12 18:16:45.530+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-12 18:16:46.445+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-12 18:16:46.460+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-12 18:16:46.460+0000 INFO  name: system
+2023-04-12 18:16:46.460+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-12 18:16:46.460+0000 INFO  Started.
+2023-04-12 18:18:35.583+0000 INFO  Starting...
+2023-04-12 18:18:36.350+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-12 18:18:37.344+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-12 18:18:39.907+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-12 18:34:53.940+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-12 18:34:53.955+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-12 18:34:53.955+0000 INFO  name: system
+2023-04-12 18:34:53.955+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-12 18:34:53.955+0000 INFO  Started.
+2023-04-12 18:35:01.211+0000 WARN  The client is unauthorized due to authentication failure.
+2023-04-12 18:35:01.866+0000 WARN  The client is unauthorized due to authentication failure.
+2023-04-12 18:35:18.622+0000 WARN  The client is unauthorized due to authentication failure.
+2023-04-12 18:35:33.734+0000 WARN  The client is unauthorized due to authentication failure.
+2023-04-12 19:02:27.086+0000 WARN  Unsupported authentication token, scheme 'none' is only allowed when auth is disabled.
+2023-04-12 19:03:26.744+0000 WARN  Unsupported authentication token, scheme 'none' is only allowed when auth is disabled.
+2023-04-12 19:15:57.665+0000 WARN  Unsupported authentication token, scheme 'none' is only allowed when auth is disabled.
+2023-04-13 09:01:19.261+0000 INFO  Starting...
+2023-04-13 09:01:20.265+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-13 09:01:21.642+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-13 09:01:24.105+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-13 09:01:25.487+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-13 09:01:25.492+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-13 09:01:25.493+0000 INFO  name: system
+2023-04-13 09:01:25.494+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-13 09:01:25.496+0000 INFO  Started.
+2023-04-13 09:06:22.910+0000 WARN  Unsupported authentication token, scheme 'none' is only allowed when auth is disabled.
+2023-04-13 09:09:31.476+0000 WARN  Unsupported authentication token, scheme 'none' is only allowed when auth is disabled.
+2023-04-13 09:10:37.603+0000 WARN  Unsupported authentication token, scheme 'none' is only allowed when auth is disabled.
+2023-04-13 09:11:42.079+0000 WARN  Unsupported authentication token, scheme 'none' is only allowed when auth is disabled.
+2023-04-13 09:12:08.493+0000 WARN  Unsupported authentication token, scheme 'none' is only allowed when auth is disabled.
+2023-04-13 11:02:02.628+0000 INFO  Starting...
+2023-04-13 11:02:03.489+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-13 11:02:04.733+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-13 11:02:06.878+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-13 11:02:08.096+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-13 11:02:08.100+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-13 11:02:08.101+0000 INFO  name: system
+2023-04-13 11:02:08.102+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-13 11:02:08.102+0000 INFO  Started.
+2023-04-13 15:59:43.759+0000 WARN  Unsupported authentication token, scheme 'none' is only allowed when auth is disabled.
+2023-04-13 16:00:52.493+0000 WARN  Unsupported authentication token, scheme 'none' is only allowed when auth is disabled.
+2023-04-14 12:15:18.492+0000 INFO  Starting...
+2023-04-14 12:15:19.311+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-14 12:15:20.511+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-14 12:15:22.712+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-14 12:15:23.871+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-14 12:15:23.876+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-14 12:15:23.877+0000 INFO  name: system
+2023-04-14 12:15:23.878+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-14 12:15:23.878+0000 INFO  Started.
+2023-04-16 13:17:58.835+0000 INFO  Starting...
+2023-04-16 13:18:00.237+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-16 13:18:02.272+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-16 13:18:05.514+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-16 13:18:07.147+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-16 13:18:07.153+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-16 13:18:07.154+0000 INFO  name: system
+2023-04-16 13:18:07.154+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-16 13:18:07.155+0000 INFO  Started.
+2023-04-16 15:09:36.355+0000 WARN  The client is unauthorized due to authentication failure.
+2023-04-16 15:40:31.664+0000 INFO  Starting...
+2023-04-16 15:40:32.554+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-16 15:40:33.906+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-16 15:40:38.126+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-16 15:40:40.221+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-16 15:40:40.237+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-16 15:40:40.237+0000 INFO  name: system
+2023-04-16 15:40:40.237+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-16 15:40:40.237+0000 INFO  Started.
+2023-04-17 13:41:19.117+0000 INFO  Starting...
+2023-04-17 13:41:20.283+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-17 13:41:22.060+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-17 13:41:24.361+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-17 13:41:25.555+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-17 13:41:25.558+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-17 13:41:25.559+0000 INFO  name: system
+2023-04-17 13:41:25.559+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-17 13:41:25.559+0000 INFO  Started.
+2023-04-17 19:05:33.765+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-379", reference ad95d336-4b32-44b0-bcf4-d5d60092ea5a.
+2023-04-19 14:52:08.311+0000 INFO  Starting...
+2023-04-19 14:52:09.293+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-19 14:52:11.359+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-19 14:52:14.250+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-19 14:52:15.784+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-19 14:52:15.790+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-19 14:52:15.791+0000 INFO  name: system
+2023-04-19 14:52:15.793+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-19 14:52:15.794+0000 INFO  Started.
+2023-04-20 07:02:42.073+0000 INFO  Starting...
+2023-04-20 07:02:42.917+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-20 07:02:44.318+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-20 07:02:46.563+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-20 07:02:47.809+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-20 07:02:47.816+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-20 07:02:47.817+0000 INFO  name: system
+2023-04-20 07:02:47.817+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-20 07:02:47.818+0000 INFO  Started.
+2023-04-20 10:48:34.999+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-5109", reference b2a618b6-076e-4646-a454-66a0921bbd41.
+2023-04-20 15:20:13.859+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-11676", reference 5eaa9199-28fa-4826-b4ad-2fea79a0d241.
+2023-04-20 17:57:46.238+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-15483", reference 4ee82d9f-21f5-4657-b3c7-7b1f3d17068e.
+2023-04-20 17:58:47.171+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-15526", reference 4388434d-f2b2-48cc-a14e-f147f439059f.
+2023-04-20 17:58:48.153+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-15527", reference 29763751-5d64-47cf-8834-8419a4905f20.
+2023-04-20 17:58:50.443+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-15529", reference fae07595-c6ae-4e3d-bdc1-8384b9d9ef75.
+2023-04-21 07:07:14.248+0000 INFO  Starting...
+2023-04-21 07:07:17.043+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-21 07:07:20.675+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-21 07:07:27.788+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-21 07:07:31.357+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-21 07:07:31.369+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-21 07:07:31.370+0000 INFO  name: system
+2023-04-21 07:07:31.372+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-21 07:07:31.379+0000 INFO  Started.
+2023-04-22 08:54:56.544+0000 INFO  Starting...
+2023-04-22 08:54:57.956+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-22 08:55:00.115+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-22 08:55:03.612+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-22 08:55:05.634+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-22 08:55:05.642+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-22 08:55:05.642+0000 INFO  name: system
+2023-04-22 08:55:05.642+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-22 08:55:05.650+0000 INFO  Started.
+2023-04-22 11:23:53.625+0000 INFO  Starting...
+2023-04-22 11:23:54.550+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-22 11:23:55.956+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-22 11:23:58.419+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-22 11:23:59.707+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-22 11:23:59.711+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-22 11:23:59.711+0000 INFO  name: system
+2023-04-22 11:23:59.712+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-22 11:23:59.713+0000 INFO  Started.
+2023-04-23 08:14:33.584+0000 INFO  Starting...
+2023-04-23 08:14:34.926+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-23 08:14:36.934+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-23 08:14:40.527+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-23 08:14:42.127+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-23 08:14:42.134+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-23 08:14:42.135+0000 INFO  name: system
+2023-04-23 08:14:42.136+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-23 08:14:42.137+0000 INFO  Started.
+2023-04-23 14:15:44.503+0000 INFO  Starting...
+2023-04-23 14:15:45.344+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-23 14:15:46.557+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-23 14:15:48.908+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-23 14:15:50.030+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-23 14:15:50.035+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-23 14:15:50.036+0000 INFO  name: system
+2023-04-23 14:15:50.037+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-23 14:15:50.038+0000 INFO  Started.
+2023-04-24 07:31:35.317+0000 INFO  Starting...
+2023-04-24 07:31:37.241+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-24 07:31:40.074+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-24 07:31:44.658+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-24 07:31:47.356+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-24 07:31:47.356+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-24 07:31:47.356+0000 INFO  name: system
+2023-04-24 07:31:47.372+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-24 07:31:47.372+0000 INFO  Started.
+2023-04-24 09:56:26.248+0000 INFO  Starting...
+2023-04-24 09:56:27.137+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-24 09:56:28.582+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-24 09:56:31.195+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-24 09:56:32.406+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-24 09:56:32.410+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-24 09:56:32.411+0000 INFO  name: system
+2023-04-24 09:56:32.412+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-24 09:56:32.412+0000 INFO  Started.
+2023-04-24 11:43:55.155+0000 INFO  Starting...
+2023-04-24 11:43:55.983+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-24 11:43:57.245+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-24 11:43:59.665+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-24 11:44:00.652+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-24 11:44:00.657+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-24 11:44:00.658+0000 INFO  name: system
+2023-04-24 11:44:00.659+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-24 11:44:00.660+0000 INFO  Started.
+2023-04-24 13:31:32.493+0000 INFO  Starting...
+2023-04-24 13:31:33.414+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-24 13:31:34.816+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-24 13:31:37.342+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-24 13:31:38.714+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-24 13:31:38.719+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-24 13:31:38.720+0000 INFO  name: system
+2023-04-24 13:31:38.720+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-24 13:31:38.721+0000 INFO  Started.
+2023-04-24 15:34:00.755+0000 INFO  Starting...
+2023-04-24 15:34:02.203+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-24 15:34:04.608+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-24 15:34:09.632+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-24 15:34:11.539+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-24 15:34:11.548+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-24 15:34:11.549+0000 INFO  name: system
+2023-04-24 15:34:11.550+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-24 15:34:11.551+0000 INFO  Started.
+2023-04-24 17:51:48.136+0000 INFO  Starting...
+2023-04-24 17:51:50.555+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-24 17:51:52.945+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-24 17:51:57.216+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-24 17:51:59.022+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-24 17:51:59.030+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-24 17:51:59.031+0000 INFO  name: system
+2023-04-24 17:51:59.032+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-24 17:51:59.033+0000 INFO  Started.
+2023-04-25 08:27:44.312+0000 INFO  Starting...
+2023-04-25 08:27:45.260+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-25 08:27:46.744+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-25 08:27:49.210+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-25 08:27:50.322+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-25 08:27:50.326+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-25 08:27:50.326+0000 INFO  name: system
+2023-04-25 08:27:50.326+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-25 08:27:50.326+0000 INFO  Started.
+2023-04-25 14:24:20.468+0000 INFO  Starting...
+2023-04-25 14:24:21.286+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-25 14:24:22.458+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-25 14:24:24.395+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-25 14:24:25.425+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-25 14:24:25.425+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-25 14:24:25.425+0000 INFO  name: system
+2023-04-25 14:24:25.425+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-25 14:24:25.425+0000 INFO  Started.
+2023-04-25 17:34:16.479+0000 INFO  Starting...
+2023-04-25 17:34:17.366+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-25 17:34:18.579+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-25 17:34:20.747+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-25 17:34:21.771+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-25 17:34:21.776+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-25 17:34:21.776+0000 INFO  name: system
+2023-04-25 17:34:21.776+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-25 17:34:21.778+0000 INFO  Started.
+2023-04-25 21:12:49.234+0000 INFO  Starting...
+2023-04-25 21:12:50.777+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-25 21:12:53.446+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-25 21:12:57.476+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-25 21:12:59.296+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-25 21:12:59.296+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-25 21:12:59.296+0000 INFO  name: system
+2023-04-25 21:12:59.296+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-25 21:12:59.296+0000 INFO  Started.
+2023-04-26 07:57:25.639+0000 INFO  Starting...
+2023-04-26 07:57:26.619+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-26 07:57:28.323+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-26 07:57:31.241+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-26 07:57:32.445+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-26 07:57:32.449+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-26 07:57:32.450+0000 INFO  name: system
+2023-04-26 07:57:32.450+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-26 07:57:32.451+0000 INFO  Started.
+2023-04-26 10:20:17.839+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-4697", reference 3512ddeb-8297-40e5-8f01-b48d64f40016.
+2023-04-26 10:20:19.700+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-4698", reference 2c6ce330-3043-49cf-9410-59348883e28a.
+2023-04-26 10:28:01.751+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-5008", reference 472b385e-5a29-4a61-a770-6e0b5616d855.
+2023-04-26 10:28:04.572+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-5011", reference d556e91e-9805-473a-a2d7-0da740099f80.
+2023-04-26 10:28:05.128+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-5012", reference 0b56baf4-884b-4b3f-b1a8-7630c5b29c6a.
+2023-04-26 11:42:39.435+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-8435", reference 4af23e22-cd27-4ab1-a850-72fde2d92b17.
+2023-04-26 11:43:30.277+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-8486", reference 9997022c-ee53-466f-b65f-e4c275de1c7a.
+2023-04-26 11:47:30.870+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-8687", reference 56a9dd0c-2145-442d-b592-8087dae47780.
+2023-04-26 11:48:36.545+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-8760", reference 280c168d-66a9-4501-94fd-69b0e61f803e.
+2023-04-26 12:01:14.119+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-9123", reference 84a447eb-a57f-4913-9caf-4a0bcb6827d7.
+2023-04-26 12:02:22.550+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-9186", reference 8f48f749-aa04-4bac-bb0a-306fd7dba38d.
+2023-04-26 12:06:27.319+0000 INFO  Starting...
+2023-04-26 12:06:28.210+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-26 12:06:29.420+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-26 12:06:31.512+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-26 12:06:32.940+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-26 12:06:32.944+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-26 12:06:32.945+0000 INFO  name: system
+2023-04-26 12:06:32.945+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-26 12:06:32.946+0000 INFO  Started.
+2023-04-26 12:25:51.857+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-934", reference 9246686e-645b-4baf-aa89-54fcd0df9df4.
+2023-04-26 12:51:59.180+0000 INFO  Starting...
+2023-04-26 12:52:00.100+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-26 12:52:01.496+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-26 12:52:03.520+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-26 12:52:04.650+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-26 12:52:04.655+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-26 12:52:04.656+0000 INFO  name: system
+2023-04-26 12:52:04.656+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-26 12:52:04.657+0000 INFO  Started.
+2023-04-26 13:25:52.225+0000 INFO  Starting...
+2023-04-26 13:25:53.102+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-26 13:25:54.347+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-26 13:25:56.698+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-26 13:25:57.909+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-26 13:25:57.913+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-26 13:25:57.914+0000 INFO  name: system
+2023-04-26 13:25:57.914+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-26 13:25:57.914+0000 INFO  Started.
+2023-04-27 07:14:16.509+0000 INFO  Starting...
+2023-04-27 07:14:17.951+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-27 07:14:20.234+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-27 07:14:24.062+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-27 07:14:25.398+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-27 07:14:25.404+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-27 07:14:25.404+0000 INFO  name: system
+2023-04-27 07:14:25.406+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-27 07:14:25.407+0000 INFO  Started.
+2023-04-27 09:51:46.827+0000 INFO  Starting...
+2023-04-27 09:51:47.599+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-27 09:51:48.802+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-27 09:51:51.100+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-27 09:51:52.072+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-27 09:51:52.072+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-27 09:51:52.072+0000 INFO  name: system
+2023-04-27 09:51:52.072+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-27 09:51:52.072+0000 INFO  Started.
+2023-04-27 15:41:37.076+0000 INFO  Starting...
+2023-04-27 15:41:38.869+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-27 15:41:42.042+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-27 15:41:47.494+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-27 15:41:50.576+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-27 15:41:50.593+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-27 15:41:50.599+0000 INFO  name: system
+2023-04-27 15:41:50.606+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-27 15:41:50.607+0000 INFO  Started.
+2023-04-28 06:14:23.121+0000 INFO  Starting...
+2023-04-28 06:14:24.043+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-28 06:14:25.293+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-28 06:14:27.376+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-28 06:14:28.532+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-28 06:14:28.532+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-28 06:14:28.532+0000 INFO  name: system
+2023-04-28 06:14:28.532+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-28 06:14:28.532+0000 INFO  Started.
+2023-04-28 12:56:27.375+0000 INFO  Starting...
+2023-04-28 12:56:29.051+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-28 12:56:31.765+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-28 12:56:35.051+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-28 12:56:36.580+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-28 12:56:36.589+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-28 12:56:36.590+0000 INFO  name: system
+2023-04-28 12:56:36.592+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-28 12:56:36.593+0000 INFO  Started.
+2023-04-29 06:45:22.697+0000 INFO  Starting...
+2023-04-29 06:45:24.266+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-29 06:45:26.720+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-29 06:45:30.109+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-29 06:45:31.867+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-29 06:45:31.874+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-29 06:45:31.875+0000 INFO  name: system
+2023-04-29 06:45:31.876+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-29 06:45:31.877+0000 INFO  Started.
+2023-04-29 12:00:42.864+0000 INFO  Starting...
+2023-04-29 12:00:44.260+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-29 12:00:46.172+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-29 12:00:49.272+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-29 12:00:50.925+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-29 12:00:50.934+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-29 12:00:50.934+0000 INFO  name: system
+2023-04-29 12:00:50.935+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-29 12:00:50.936+0000 INFO  Started.
+2023-04-30 07:45:29.500+0000 INFO  Starting...
+2023-04-30 07:45:30.456+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-04-30 07:45:31.788+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-04-30 07:45:34.485+0000 INFO  Bolt enabled on localhost:7687.
+2023-04-30 07:45:36.886+0000 INFO  Remote interface available at http://localhost:7474/
+2023-04-30 07:45:36.891+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-04-30 07:45:36.892+0000 INFO  name: system
+2023-04-30 07:45:36.892+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-04-30 07:45:36.892+0000 INFO  Started.
+2023-05-01 18:54:10.850+0000 INFO  Starting...
+2023-05-01 18:54:12.025+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-01 18:54:13.521+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-01 18:54:15.856+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-01 18:54:17.186+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-01 18:54:17.190+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-01 18:54:17.191+0000 INFO  name: system
+2023-05-01 18:54:17.191+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-01 18:54:17.191+0000 INFO  Started.
+2023-05-02 11:15:33.718+0000 INFO  Starting...
+2023-05-02 11:15:34.772+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-02 11:15:36.135+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-02 11:15:38.826+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-02 11:15:40.963+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-02 11:15:40.972+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-02 11:15:40.974+0000 INFO  name: system
+2023-05-02 11:15:40.975+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-02 11:15:40.976+0000 INFO  Started.
+2023-05-02 15:07:34.469+0000 INFO  Starting...
+2023-05-02 15:07:35.369+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-02 15:07:36.838+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-02 15:07:39.067+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-02 15:07:40.291+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-02 15:07:40.295+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-02 15:07:40.296+0000 INFO  name: system
+2023-05-02 15:07:40.296+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-02 15:07:40.296+0000 INFO  Started.
+2023-05-03 12:53:35.418+0000 INFO  Starting...
+2023-05-03 12:53:36.848+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-03 12:53:39.979+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-03 12:53:43.754+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-03 12:53:45.642+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-03 12:53:45.649+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-03 12:53:45.651+0000 INFO  name: system
+2023-05-03 12:53:45.651+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-03 12:53:45.652+0000 INFO  Started.
+2023-05-04 06:58:36.879+0000 INFO  Starting...
+2023-05-04 06:58:37.829+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-04 06:58:39.111+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-04 06:58:41.360+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-04 06:58:42.768+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-04 06:58:42.773+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-04 06:58:42.774+0000 INFO  name: system
+2023-05-04 06:58:42.774+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-04 06:58:42.775+0000 INFO  Started.
+2023-05-04 09:08:54.943+0000 ERROR [bolt-2290] Terminating connection due to unexpected error
+org.neo4j.bolt.protocol.error.streaming.BoltStreamingWriteException: Failed to transmit operation result: Response write failure
+	at org.neo4j.bolt.protocol.common.fsm.response.NetworkResponseHandler.onSuccess(NetworkResponseHandler.java:184) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.fsm.AbstractStateMachine.after(AbstractStateMachine.java:112) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.fsm.AbstractStateMachine.process(AbstractStateMachine.java:88) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.lambda$submit$4(AtomicSchedulingConnection.java:121) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.executeJob(AtomicSchedulingConnection.java:343) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.doExecuteJobs(AtomicSchedulingConnection.java:278) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.executeJobs(AtomicSchedulingConnection.java:220) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1623) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at io.netty.handler.codec.http.websocketx.WebSocketProtocolHandler.write(WebSocketProtocolHandler.java:113) ~[netty-codec-http-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandler.write(WebSocketServerProtocolHandler.java:54) ~[netty-codec-http-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.bolt.protocol.common.handler.StateSignalFilterHandler.write(StateSignalFilterHandler.java:41) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.packstream.codec.transport.FrameSignalEncoder.write(FrameSignalEncoder.java:72) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.bolt.runtime.throttle.ChannelReadThrottleHandler.write(ChannelReadThrottleHandler.java:75) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:879) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:851) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.writePromiseCombiner(MessageToMessageEncoder.java:140) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:120) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.timeout.IdleStateHandler.write(IdleStateHandler.java:302) ~[netty-handler-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.bolt.protocol.common.handler.KeepAliveHandler.write(KeepAliveHandler.java:117) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:879) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext$WriteTask.run(AbstractChannelHandlerContext.java:1247) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:566) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	... 1 more
+2023-05-04 13:48:59.150+0000 ERROR Client triggered an unexpected error [Neo.DatabaseError.General.UnknownError]: Failed to execute query in transaction "bolt-12816", reference e7c5bafa-d64a-46a8-9bef-baab04ab62f9.
+2023-05-04 15:08:25.672+0000 ERROR [bolt-7208] Terminating connection due to unexpected error
+org.neo4j.bolt.protocol.error.streaming.BoltStreamingWriteException: Failed to transmit operation result: Response write failure
+	at org.neo4j.bolt.protocol.common.fsm.response.NetworkResponseHandler.onSuccess(NetworkResponseHandler.java:184) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.fsm.AbstractStateMachine.after(AbstractStateMachine.java:112) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.fsm.AbstractStateMachine.process(AbstractStateMachine.java:88) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.lambda$submit$4(AtomicSchedulingConnection.java:121) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.executeJob(AtomicSchedulingConnection.java:343) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.doExecuteJobs(AtomicSchedulingConnection.java:313) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.executeJobs(AtomicSchedulingConnection.java:220) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1623) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at io.netty.handler.codec.http.websocketx.WebSocketProtocolHandler.write(WebSocketProtocolHandler.java:113) ~[netty-codec-http-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandler.write(WebSocketServerProtocolHandler.java:54) ~[netty-codec-http-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.bolt.protocol.common.handler.StateSignalFilterHandler.write(StateSignalFilterHandler.java:41) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.packstream.codec.transport.FrameSignalEncoder.write(FrameSignalEncoder.java:72) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.bolt.runtime.throttle.ChannelReadThrottleHandler.write(ChannelReadThrottleHandler.java:75) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:879) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:851) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.writePromiseCombiner(MessageToMessageEncoder.java:140) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:120) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.timeout.IdleStateHandler.write(IdleStateHandler.java:302) ~[netty-handler-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.bolt.protocol.common.handler.KeepAliveHandler.write(KeepAliveHandler.java:117) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:879) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext$WriteTask.run(AbstractChannelHandlerContext.java:1247) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:566) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	... 1 more
+2023-05-04 15:08:25.684+0000 ERROR [bolt-7199] Terminating connection due to unexpected error
+org.neo4j.bolt.protocol.error.streaming.BoltStreamingWriteException: Failed to transmit operation result: Response write failure
+	at org.neo4j.bolt.protocol.common.fsm.response.NetworkResponseHandler.onSuccess(NetworkResponseHandler.java:184) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.fsm.AbstractStateMachine.after(AbstractStateMachine.java:112) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.fsm.AbstractStateMachine.process(AbstractStateMachine.java:88) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.lambda$submit$4(AtomicSchedulingConnection.java:121) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.executeJob(AtomicSchedulingConnection.java:343) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.doExecuteJobs(AtomicSchedulingConnection.java:278) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at org.neo4j.bolt.protocol.common.connector.connection.AtomicSchedulingConnection.executeJobs(AtomicSchedulingConnection.java:220) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1623) ~[?:?]
+Caused by: java.nio.channels.ClosedChannelException
+	at io.netty.handler.codec.http.websocketx.WebSocketProtocolHandler.write(WebSocketProtocolHandler.java:113) ~[netty-codec-http-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandler.write(WebSocketServerProtocolHandler.java:54) ~[netty-codec-http-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:113) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.bolt.protocol.common.handler.StateSignalFilterHandler.write(StateSignalFilterHandler.java:41) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:120) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.packstream.codec.transport.FrameSignalEncoder.write(FrameSignalEncoder.java:72) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:113) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.bolt.runtime.throttle.ChannelReadThrottleHandler.write(ChannelReadThrottleHandler.java:75) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:879) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:851) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.writePromiseCombiner(MessageToMessageEncoder.java:140) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.codec.MessageToMessageEncoder.write(MessageToMessageEncoder.java:120) ~[netty-codec-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.handler.timeout.IdleStateHandler.write(IdleStateHandler.java:302) ~[netty-handler-4.1.87.Final.jar:4.1.87.Final]
+	at org.neo4j.bolt.protocol.common.handler.KeepAliveHandler.write(KeepAliveHandler.java:117) ~[neo4j-bolt-5.6.0.jar:5.6.0]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:879) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.AbstractChannelHandlerContext$WriteTask.run(AbstractChannelHandlerContext.java:1247) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:566) ~[netty-transport-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.87.Final.jar:4.1.87.Final]
+	... 1 more
+2023-05-05 07:13:30.869+0000 INFO  Starting...
+2023-05-05 07:13:32.741+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-05 07:13:35.260+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-05 07:13:40.676+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-05 07:13:43.740+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-05 07:13:43.748+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-05 07:13:43.748+0000 INFO  name: system
+2023-05-05 07:13:43.748+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-05 07:13:43.756+0000 INFO  Started.
+2023-05-07 10:20:47.846+0000 INFO  Starting...
+2023-05-07 10:20:48.797+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-07 10:20:50.198+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-07 10:20:53.068+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-07 10:20:54.748+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-07 10:20:54.754+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-07 10:20:54.755+0000 INFO  name: system
+2023-05-07 10:20:54.756+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-07 10:20:54.756+0000 INFO  Started.
+2023-05-07 10:35:29.854+0000 INFO  Starting...
+2023-05-07 10:35:31.001+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-07 10:35:32.472+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-07 10:35:35.232+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-07 10:35:36.730+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-07 10:35:36.737+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-07 10:35:36.738+0000 INFO  name: system
+2023-05-07 10:35:36.739+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-07 10:35:36.740+0000 INFO  Started.
+2023-05-07 17:24:02.266+0000 INFO  Starting...
+2023-05-07 17:24:03.346+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-07 17:24:04.775+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-07 17:24:07.167+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-07 17:24:08.683+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-07 17:24:08.687+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-07 17:24:08.688+0000 INFO  name: system
+2023-05-07 17:24:08.688+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-07 17:24:08.688+0000 INFO  Started.
+2023-05-08 08:10:06.543+0000 INFO  Starting...
+2023-05-08 08:10:07.841+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-08 08:10:10.262+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-08 08:10:14.232+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-08 08:10:16.194+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-08 08:10:16.201+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-08 08:10:16.202+0000 INFO  name: system
+2023-05-08 08:10:16.203+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-08 08:10:16.205+0000 INFO  Started.
+2023-05-09 06:49:45.488+0000 INFO  Starting...
+2023-05-09 06:49:46.412+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-09 06:49:47.781+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-09 06:49:50.008+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-09 06:49:51.700+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-09 06:49:51.708+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-09 06:49:51.709+0000 INFO  name: system
+2023-05-09 06:49:51.710+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-09 06:49:51.711+0000 INFO  Started.
+2023-05-10 18:48:59.236+0000 INFO  Starting...
+2023-05-10 18:49:00.285+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-10 18:49:02.091+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-10 18:49:04.657+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-10 18:49:06.353+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-10 18:49:06.358+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-10 18:49:06.358+0000 INFO  name: system
+2023-05-10 18:49:06.359+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-10 18:49:06.359+0000 INFO  Started.
+2023-05-11 15:20:24.972+0000 INFO  Starting...
+2023-05-11 15:20:26.338+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-11 15:20:28.645+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-11 15:20:35.155+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-11 15:20:38.109+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-11 15:20:38.115+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-11 15:20:38.115+0000 INFO  name: system
+2023-05-11 15:20:38.116+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-11 15:20:38.116+0000 INFO  Started.
+2023-05-11 16:50:12.898+0000 INFO  Starting...
+2023-05-11 16:50:14.112+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-11 16:50:15.557+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-11 16:50:17.885+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-11 16:50:19.988+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-11 16:50:19.996+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-11 16:50:19.998+0000 INFO  name: system
+2023-05-11 16:50:20.000+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-11 16:50:20.002+0000 INFO  Started.
+2023-05-11 17:23:42.848+0000 INFO  Starting...
+2023-05-11 17:23:43.907+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-11 17:23:45.254+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-11 17:23:47.706+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-11 17:23:49.664+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-11 17:23:49.674+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-11 17:23:49.675+0000 INFO  name: system
+2023-05-11 17:23:49.677+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-11 17:23:49.678+0000 INFO  Started.
+2023-05-11 17:24:05.295+0000 WARN  The client is unauthorized due to authentication failure.
+2023-05-11 17:24:05.953+0000 WARN  The client is unauthorized due to authentication failure.
+2023-05-11 17:35:35.378+0000 INFO  Starting...
+2023-05-11 17:35:36.424+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-11 17:35:37.987+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-11 17:35:41.049+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-11 17:35:42.897+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-11 17:35:42.902+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-11 17:35:42.902+0000 INFO  name: system
+2023-05-11 17:35:42.903+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-11 17:35:42.906+0000 INFO  Started.
+2023-05-12 07:46:12.929+0000 INFO  Starting...
+2023-05-12 07:46:13.815+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-12 07:46:15.124+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-12 07:46:17.330+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-12 07:46:18.809+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-12 07:46:18.814+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-12 07:46:18.815+0000 INFO  name: system
+2023-05-12 07:46:18.815+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-12 07:46:18.815+0000 INFO  Started.
+2023-05-12 09:13:33.527+0000 INFO  Starting...
+2023-05-12 09:13:34.390+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-12 09:13:35.621+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-12 09:13:37.631+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-12 09:13:39.223+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-12 09:13:39.228+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-12 09:13:39.229+0000 INFO  name: system
+2023-05-12 09:13:39.230+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-12 09:13:39.232+0000 INFO  Started.
+2023-05-12 09:20:50.626+0000 INFO  Starting...
+2023-05-12 09:20:51.493+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-12 09:20:52.682+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-12 09:20:54.912+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-12 09:20:56.593+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-12 09:20:56.602+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-12 09:20:56.602+0000 INFO  name: system
+2023-05-12 09:20:56.604+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-12 09:20:56.608+0000 INFO  Started.
+2023-05-13 13:06:36.630+0000 INFO  Starting...
+2023-05-13 13:06:38.397+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-13 13:06:40.900+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-13 13:06:45.114+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-13 13:06:47.525+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-13 13:06:47.536+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-13 13:06:47.537+0000 INFO  name: system
+2023-05-13 13:06:47.539+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-13 13:06:47.540+0000 INFO  Started.
+2023-05-16 12:10:33.010+0000 INFO  Starting...
+2023-05-16 12:10:34.520+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-16 18:50:08.954+0000 INFO  Starting...
+2023-05-16 18:50:10.342+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-16 18:50:12.249+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-16 18:50:15.699+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-16 18:50:17.279+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-16 18:50:17.286+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-16 18:50:17.287+0000 INFO  name: system
+2023-05-16 18:50:17.288+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-16 18:50:17.289+0000 INFO  Started.
+2023-05-16 19:49:19.243+0000 INFO  Starting...
+2023-05-16 19:49:20.623+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-16 19:49:22.805+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-16 19:49:26.263+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-16 19:49:28.012+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-16 19:49:28.021+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-16 19:49:28.023+0000 INFO  name: system
+2023-05-16 19:49:28.024+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-16 19:49:28.025+0000 INFO  Started.
+2023-05-16 19:54:20.954+0000 INFO  Starting...
+2023-05-16 19:54:22.619+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-16 19:54:25.163+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-16 19:54:29.075+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-16 19:54:30.765+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-16 19:54:30.772+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-16 19:54:30.773+0000 INFO  name: system
+2023-05-16 19:54:30.775+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-16 19:54:30.776+0000 INFO  Started.
+2023-05-16 20:08:07.032+0000 INFO  Starting...
+2023-05-16 20:08:07.887+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-16 20:08:09.207+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-16 20:08:11.367+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-16 20:08:12.457+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-16 20:08:12.461+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-16 20:08:12.462+0000 INFO  name: system
+2023-05-16 20:08:12.463+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-16 20:08:12.463+0000 INFO  Started.
+2023-05-16 20:19:07.893+0000 INFO  Starting...
+2023-05-16 20:19:08.746+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-16 20:19:10.046+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-16 20:19:14.244+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-16 20:19:16.531+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-16 20:19:16.540+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-16 20:19:16.542+0000 INFO  name: system
+2023-05-16 20:19:16.543+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-16 20:19:16.545+0000 INFO  Started.
+2023-05-17 14:37:28.909+0000 INFO  Starting...
+2023-05-17 14:37:29.878+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-17 14:37:31.510+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-17 14:37:34.218+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-17 14:37:35.586+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-17 14:37:35.591+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-17 14:37:35.592+0000 INFO  name: system
+2023-05-17 14:37:35.592+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-17 14:37:35.593+0000 INFO  Started.
+2023-05-17 16:51:15.301+0000 INFO  Starting...
+2023-05-17 16:51:17.529+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-17 16:51:21.003+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-17 16:51:26.414+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-17 16:51:29.102+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-17 16:51:29.117+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-17 16:51:29.120+0000 INFO  name: system
+2023-05-17 16:51:29.125+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-17 16:51:29.136+0000 INFO  Started.
+2023-05-19 17:59:08.408+0000 INFO  Starting...
+2023-05-19 17:59:10.622+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-19 17:59:13.443+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-19 17:59:17.850+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-19 17:59:22.073+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-19 17:59:22.117+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-19 17:59:22.118+0000 INFO  name: system
+2023-05-19 17:59:22.120+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-19 17:59:22.121+0000 INFO  Started.
+2023-05-19 18:08:02.565+0000 INFO  Starting...
+2023-05-19 18:08:03.713+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-19 18:08:05.331+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-19 18:08:09.398+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-19 18:08:11.541+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-19 18:08:11.557+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-19 18:08:11.557+0000 INFO  name: system
+2023-05-19 18:08:11.557+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-19 18:08:11.557+0000 INFO  Started.
+2023-05-22 16:40:14.463+0000 INFO  Starting...
+2023-05-22 16:40:16.739+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-22 16:40:19.934+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-22 16:40:24.397+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-22 16:40:26.790+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-22 16:40:26.796+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-22 16:40:26.799+0000 INFO  name: system
+2023-05-22 16:40:26.800+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-22 16:40:26.801+0000 INFO  Started.
+2023-05-23 05:45:20.695+0000 INFO  Starting...
+2023-05-23 05:45:25.041+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-23 05:45:29.551+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-23 05:45:35.782+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-23 05:45:38.526+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-23 05:45:38.536+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-23 05:45:38.538+0000 INFO  name: system
+2023-05-23 05:45:38.539+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-23 05:45:38.540+0000 INFO  Started.
+2023-05-23 05:53:52.689+0000 INFO  Starting...
+2023-05-23 05:53:55.084+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-23 05:53:58.397+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-23 05:54:02.972+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-23 05:54:05.351+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-23 05:54:05.362+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-23 05:54:05.363+0000 INFO  name: system
+2023-05-23 05:54:05.364+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-23 05:54:05.365+0000 INFO  Started.
+2023-05-23 06:00:06.419+0000 INFO  Starting...
+2023-05-23 06:00:07.798+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-23 06:00:09.876+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-23 06:00:13.918+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-23 06:00:20.411+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-23 06:00:20.439+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-23 06:00:20.442+0000 INFO  name: system
+2023-05-23 06:00:20.445+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-23 06:00:20.449+0000 INFO  Started.
+2023-05-23 15:16:21.208+0000 INFO  Starting...
+2023-05-23 15:16:22.177+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-23 15:16:23.552+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-23 15:16:25.884+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-23 15:16:27.036+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-23 15:16:27.036+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-23 15:16:27.036+0000 INFO  name: system
+2023-05-23 15:16:27.036+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-23 15:16:27.036+0000 INFO  Started.
+2023-05-23 15:24:32.573+0000 INFO  Starting...
+2023-05-23 15:24:33.619+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-23 15:24:35.120+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-23 15:24:37.735+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-23 15:24:38.954+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-23 15:24:38.960+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-23 15:24:38.961+0000 INFO  name: system
+2023-05-23 15:24:38.962+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-23 15:24:38.962+0000 INFO  Started.
+2023-05-24 16:17:51.690+0000 INFO  Starting...
+2023-05-24 16:17:52.694+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-24 16:17:54.146+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-24 16:17:56.637+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-24 16:17:57.842+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-24 16:17:57.852+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-24 16:17:57.853+0000 INFO  name: system
+2023-05-24 16:17:57.854+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-24 16:17:57.854+0000 INFO  Started.
+2023-05-24 17:47:31.418+0000 INFO  Starting...
+2023-05-24 17:47:32.377+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-24 17:47:34.187+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-24 17:47:37.405+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-24 17:47:38.380+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-24 17:47:38.385+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-24 17:47:38.386+0000 INFO  name: system
+2023-05-24 17:47:38.387+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-24 17:47:38.387+0000 INFO  Started.
+2023-05-24 18:12:53.787+0000 INFO  Starting...
+2023-05-24 18:12:54.701+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-24 18:12:56.150+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-24 18:12:58.355+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-24 18:12:59.592+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-24 18:12:59.598+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-24 18:12:59.599+0000 INFO  name: system
+2023-05-24 18:12:59.600+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-24 18:12:59.600+0000 INFO  Started.
+2023-05-25 12:02:29.891+0000 INFO  Starting...
+2023-05-25 12:02:31.728+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-25 12:02:34.857+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-25 12:02:38.705+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-25 12:02:40.683+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-25 12:02:40.689+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-25 12:02:40.691+0000 INFO  name: system
+2023-05-25 12:02:40.715+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-25 12:02:40.716+0000 INFO  Started.
+2023-05-25 12:13:58.443+0000 INFO  Starting...
+2023-05-25 12:13:59.291+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-25 12:14:00.631+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-25 12:14:02.699+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-25 12:14:03.764+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-25 12:14:03.768+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-25 12:14:03.769+0000 INFO  name: system
+2023-05-25 12:14:03.769+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-25 12:14:03.770+0000 INFO  Started.
+2023-05-25 12:56:21.462+0000 WARN  The client is unauthorized due to authentication failure.
+2023-05-25 12:56:21.469+0000 WARN  The client is unauthorized due to authentication failure.
+2023-05-25 13:26:22.708+0000 INFO  Starting...
+2023-05-25 13:26:23.648+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-25 13:26:25.544+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-25 13:26:28.866+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-25 13:26:29.921+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-25 13:26:29.926+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-25 13:26:29.927+0000 INFO  name: system
+2023-05-25 13:26:29.927+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-25 13:26:29.927+0000 INFO  Started.
+2023-05-25 13:46:08.130+0000 INFO  Starting...
+2023-05-25 13:46:08.943+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-25 13:46:10.083+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-25 13:46:12.022+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-25 13:46:13.194+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-25 13:46:13.194+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-25 13:46:13.194+0000 INFO  name: system
+2023-05-25 13:46:13.194+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-25 13:46:13.194+0000 INFO  Started.
+2023-05-25 14:00:30.256+0000 INFO  Starting...
+2023-05-25 14:00:31.262+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-25 14:00:33.196+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-25 14:00:36.341+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-25 14:00:37.389+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-25 14:00:37.393+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-25 14:00:37.394+0000 INFO  name: system
+2023-05-25 14:00:37.394+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-25 14:00:37.395+0000 INFO  Started.
+2023-05-25 14:03:46.844+0000 INFO  Starting...
+2023-05-25 14:03:47.644+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-25 14:03:48.855+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-25 14:03:51.058+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-25 14:03:52.140+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-25 14:03:52.145+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-25 14:03:52.146+0000 INFO  name: system
+2023-05-25 14:03:52.146+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-25 14:03:52.147+0000 INFO  Started.
+2023-05-25 15:44:51.482+0000 INFO  Starting...
+2023-05-25 15:44:52.545+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-25 15:44:54.488+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-25 15:44:57.056+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-25 15:44:58.174+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-25 15:44:58.174+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-25 15:44:58.174+0000 INFO  name: system
+2023-05-25 15:44:58.174+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-25 15:44:58.174+0000 INFO  Started.
+2023-05-26 07:27:27.397+0000 INFO  Starting...
+2023-05-26 07:27:29.527+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-26 07:27:32.714+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-26 07:27:37.742+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-26 07:27:40.190+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-26 07:27:40.200+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-26 07:27:40.201+0000 INFO  name: system
+2023-05-26 07:27:40.203+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-26 07:27:40.205+0000 INFO  Started.
+2023-05-28 10:01:13.056+0000 INFO  Starting...
+2023-05-28 10:01:14.026+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-05-28 10:01:15.489+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-05-28 10:01:17.987+0000 INFO  Bolt enabled on localhost:7687.
+2023-05-28 10:01:19.321+0000 INFO  Remote interface available at http://localhost:7474/
+2023-05-28 10:01:19.327+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-05-28 10:01:19.328+0000 INFO  name: system
+2023-05-28 10:01:19.332+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-05-28 10:01:19.334+0000 INFO  Started.
+2023-06-06 10:58:00.243+0000 INFO  Starting...
+2023-06-06 10:58:01.606+0000 INFO  This instance is ServerId{9fec874c} (9fec874c-caaa-4a02-ba6f-595a7ea5dacc)
+2023-06-06 10:58:03.932+0000 INFO  ======== Neo4j 5.6.0 ========
+2023-06-06 10:58:08.768+0000 INFO  Bolt enabled on localhost:7687.
+2023-06-06 10:58:11.038+0000 INFO  Remote interface available at http://localhost:7474/
+2023-06-06 10:58:11.042+0000 INFO  id: 0E6337CBC0CEA2EFD2701D1ACD8E4F22DBC9C64610CDCEBAE7611146418C74BB
+2023-06-06 10:58:11.046+0000 INFO  name: system
+2023-06-06 10:58:11.046+0000 INFO  creationDate: 2023-04-12T18:16:43.838Z
+2023-06-06 10:58:11.046+0000 INFO  Started.
